@@ -1,0 +1,1 @@
+# odoo-variant-name-decoder
