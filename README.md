@@ -4,7 +4,7 @@ Seperate variant names into sku, product and variant.
 
 ## Installation
 
-`npm i Monsterbilligt/odoo-variant-name-decoder#0.0.3`
+`npm i Monsterbilligt/odoo-variant-name-decoder#v0.0.3`
 
 ## Usage
 
