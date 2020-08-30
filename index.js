@@ -22,7 +22,7 @@ exports.decodeVariantName = function (variantName) {
       }
     }
 
-    result.variant = variantName.substring(marker).trim()
+    result.variant = variantName.substring(marker + 1, variantName.length - 1).trim()
     rest = variantName.substring(0, marker - 1).trim()
   }
 

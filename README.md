@@ -17,7 +17,7 @@ console.log(result)
 
 {
   name: '[C-RLUP-POLY-S] Roll-up (comp.) (Single Page, Polypropylen)',
-  variant: '(Single Page, Polypropylen)',
+  variant: 'Single Page, Polypropylen',
   sku: 'C-RLUP-POLY-S',
   product: 'Roll-up (comp.)'
 }
